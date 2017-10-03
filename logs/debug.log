@@ -1,0 +1,471 @@
+2017-09-29 07:32:27 Debug: Something didn't work.
+2017-09-29 07:32:27 Debug: Something didn't work.
+2017-09-29 07:32:27 Info: Something didn't work.
+2017-09-29 07:34:13 Info: start upload file add
+2017-09-29 07:34:30 Info: start upload file add
+2017-09-29 07:34:52 Info: start upload file add
+2017-09-29 07:38:31 Info: start upload file add
+2017-09-29 07:38:47 Info: start upload file add
+2017-09-29 07:44:49 Info: start upload file add
+2017-09-29 07:44:49 Info: request is 
+2017-09-29 07:44:58 Info: start upload file add
+2017-09-29 07:44:58 Info: request is 1
+2017-09-29 07:45:15 Info: start upload file add
+2017-09-29 07:45:15 Info: request is 1
+2017-09-29 08:30:37 Info: start upload file add
+2017-09-29 08:30:37 Info: request is 
+2017-09-29 08:32:47 Info: start upload file add
+2017-09-29 08:32:47 Info: request is 
+2017-09-29 08:32:53 Info: start upload file add
+2017-09-29 08:32:53 Info: request is 1
+2017-09-29 08:32:53 Info: upload file 
+2017-09-29 08:37:07 Info: start upload file add
+2017-09-29 08:37:07 Info: request is 
+2017-09-29 08:37:17 Info: start upload file add
+2017-09-29 08:37:17 Info: request is 1
+2017-09-29 08:37:17 Info: upload file 
+2017-09-29 08:40:22 Info: start upload file add
+2017-09-29 08:40:22 Info: request is 
+2017-09-29 08:40:30 Info: start upload file add
+2017-09-29 08:40:30 Info: request is 1
+2017-09-29 08:40:30 Info: upload file 
+2017-09-29 08:41:38 Info: start upload file add
+2017-09-29 08:41:38 Info: request is 
+2017-09-29 08:41:44 Info: start upload file add
+2017-09-29 08:41:44 Info: request is 1
+2017-09-29 08:41:44 Info: upload file 
+2017-09-29 08:42:20 Info: start upload file add
+2017-09-29 08:42:20 Info: request is 
+2017-09-29 08:42:25 Info: start upload file add
+2017-09-29 08:42:25 Info: request is 1
+2017-09-29 08:42:25 Info: upload file 
+2017-09-29 08:42:25 Info: infodasfasdf
+2017-09-29 08:42:25 Info: dfafdas
+2017-09-29 08:42:25 Info: fadfdsa
+2017-09-29 08:42:25 Info: Array
+(
+    [tmp_name] => C:\xampp\tmp\php57E1.tmp
+    [error] => 0
+    [name] => Arsenal-Training-Session.jpg
+    [type] => image/jpeg
+    [size] => 37541
+)
+
+2017-09-29 08:46:42 Info: start upload file add
+2017-09-29 08:46:42 Info: request is 
+2017-09-29 08:47:23 Info: start upload file add
+2017-09-29 08:47:23 Info: request is 1
+2017-09-29 08:47:23 Info: upload file 
+2017-09-29 08:47:23 Info: infodasfasdf
+2017-09-29 08:47:23 Info: hinh anh 1
+2017-09-29 08:47:23 Info: des 1
+2017-09-29 08:47:23 Info: Arsenal-Training-Session.jpg
+2017-09-29 08:47:23 Info: image/jpeg
+2017-09-29 08:47:23 Info: 37541
+2017-09-29 08:47:42 Info: start upload file add
+2017-09-29 08:47:42 Info: request is 
+2017-09-29 08:48:03 Info: start upload file add
+2017-09-29 08:48:03 Info: request is 1
+2017-09-29 08:48:03 Info: upload file 
+2017-09-29 08:48:03 Info: infodasfasdf
+2017-09-29 08:48:03 Info: VIDEO 1
+2017-09-29 08:48:03 Info: DES 1
+2017-09-29 08:48:03 Info: despacito_kaka.mp4
+2017-09-29 08:48:03 Info: 
+2017-09-29 08:48:03 Info: 0
+2017-09-29 08:49:49 Info: start upload file add
+2017-09-29 08:49:49 Info: request is 
+2017-09-29 08:50:03 Info: start upload file add
+2017-09-29 08:50:03 Info: request is 1
+2017-09-29 08:50:03 Info: upload file 
+2017-09-29 08:50:03 Info: infodasfasdf
+2017-09-29 08:50:03 Info: anh dong 1
+2017-09-29 08:50:03 Info: dé 1
+2017-09-29 08:50:03 Info: animal__5_.gif
+2017-09-29 08:50:03 Info: image/gif
+2017-09-29 08:50:03 Info: 110840
+2017-09-29 08:56:46 Info: start upload file add
+2017-09-29 08:56:46 Info: request is 
+2017-09-29 08:56:54 Info: start upload file add
+2017-09-29 08:56:54 Info: request is 
+2017-09-29 09:04:53 Info: start upload file add
+2017-09-29 09:04:53 Info: request is 
+2017-09-29 09:05:04 Info: start upload file add
+2017-09-29 09:05:04 Info: request is 1
+2017-09-29 09:05:04 Info: upload file 
+2017-09-29 09:05:04 Info: infodasfasdf
+2017-09-29 09:05:04 Info: anhdong
+2017-09-29 09:05:04 Info: anhdongdes
+2017-09-29 09:05:04 Info: Arsenal-Training-Session.jpg
+2017-09-29 09:05:04 Info: image/jpeg
+2017-09-29 09:05:04 Info: 37541
+2017-09-29 09:05:04 Info: upload 1
+2017-09-29 09:07:56 Info: start upload file add
+2017-09-29 09:07:56 Info: request is 
+2017-09-29 09:08:01 Info: start upload file add
+2017-09-29 09:08:01 Info: request is 1
+2017-09-29 09:08:01 Info: upload file 
+2017-09-29 09:08:01 Info: infodasfasdf
+2017-09-29 09:08:01 Info: afas
+2017-09-29 09:08:01 Info: fasf
+2017-09-29 09:08:01 Info: Arsenal-Training-Session.jpg
+2017-09-29 09:08:01 Info: image/jpeg
+2017-09-29 09:08:01 Info: 37541
+2017-09-29 09:08:01 Info: upload 1
+2017-09-29 09:09:35 Info: start upload file add
+2017-09-29 09:09:35 Info: request is 
+2017-09-29 09:09:41 Info: start upload file add
+2017-09-29 09:09:41 Info: request is 1
+2017-09-29 09:09:41 Info: upload file 
+2017-09-29 09:09:41 Info: infodasfasdf
+2017-09-29 09:09:41 Info: dadas
+2017-09-29 09:09:41 Info: dadas
+2017-09-29 09:09:41 Info: Arsenal-Training-Session.jpg
+2017-09-29 09:09:41 Info: image/jpeg
+2017-09-29 09:09:41 Info: 37541
+2017-09-29 09:09:41 Info: upload 
+2017-09-29 09:22:45 Info: start upload file add
+2017-09-29 09:22:45 Info: request is 
+2017-09-29 09:22:50 Info: start upload file add
+2017-09-29 09:22:50 Info: request is 1
+2017-09-29 09:22:50 Info: upload file 
+2017-09-29 09:22:50 Info: infodasfasdf
+2017-09-29 09:22:50 Info: adsd
+2017-09-29 09:22:50 Info: đâs
+2017-09-29 09:22:50 Info: animal__5_.gif
+2017-09-29 09:22:50 Info: image/gif
+2017-09-29 09:22:50 Info: 110840
+2017-09-29 09:22:50 Info: upload 
+2017-09-29 09:56:21 Info: start upload file add
+2017-09-29 09:56:21 Info: request is 
+2017-09-29 09:56:28 Info: start upload file add
+2017-09-29 09:56:28 Info: request is 1
+2017-09-29 09:56:28 Info: upload file 
+2017-09-29 09:56:28 Info: infodasfasdf
+2017-09-29 09:56:28 Info: sdad
+2017-09-29 09:56:28 Info: đâsad
+2017-09-29 09:56:28 Info: animal__5_.gif
+2017-09-29 09:56:28 Info: image/gif
+2017-09-29 09:56:28 Info: 110840
+2017-09-29 09:56:28 Info: C:\xampp\htdocs\bongdak.com\src\
+2017-09-29 09:57:20 Info: start upload file add
+2017-09-29 09:57:20 Info: request is 
+2017-09-29 09:57:25 Info: start upload file add
+2017-09-29 09:57:25 Info: request is 1
+2017-09-29 09:57:25 Info: upload file 
+2017-09-29 09:57:25 Info: infodasfasdf
+2017-09-29 09:57:25 Info: đá
+2017-09-29 09:57:25 Info: ádasdasd
+2017-09-29 09:57:25 Info: Arsenal-Training-Session.jpg
+2017-09-29 09:57:25 Info: image/jpeg
+2017-09-29 09:57:25 Info: 37541
+2017-09-29 09:57:25 Info: C:\xampp\htdocs\bongdak.com\src\webroot/uploads\
+2017-09-29 09:58:20 Info: start upload file add
+2017-09-29 09:58:20 Info: request is 
+2017-09-29 09:58:27 Info: start upload file add
+2017-09-29 09:58:27 Info: request is 1
+2017-09-29 09:58:27 Info: upload file 
+2017-09-29 09:58:27 Info: infodasfasdf
+2017-09-29 09:58:27 Info: â
+2017-09-29 09:58:27 Info: aaaaad
+2017-09-29 09:58:27 Info: Arsenal-Training-Session.jpg
+2017-09-29 09:58:27 Info: image/jpeg
+2017-09-29 09:58:27 Info: 37541
+2017-09-29 09:58:27 Info: C:\xampp\htdocs\bongdak.com\src\webroot/uploads\Arsenal-Training-Session.jpg
+2017-09-29 09:59:22 Info: start upload file add
+2017-09-29 09:59:22 Info: request is 
+2017-09-29 09:59:32 Info: start upload file add
+2017-09-29 09:59:32 Info: request is 1
+2017-09-29 09:59:32 Info: upload file 
+2017-09-29 09:59:32 Info: infodasfasdf
+2017-09-29 09:59:32 Info: titled 
+2017-09-29 09:59:32 Info: desce
+2017-09-29 09:59:33 Info: Arsenal-Training-Session.jpg
+2017-09-29 09:59:33 Info: image/jpeg
+2017-09-29 09:59:33 Info: 37541
+2017-09-29 09:59:33 Info: C:\xampp\htdocs\bongdak.com\src\webroot\uploads\Arsenal-Training-Session.jpg
+2017-09-29 09:59:33 Info: upload 
+2017-09-29 10:00:28 Info: start upload file add
+2017-09-29 10:00:28 Info: request is 
+2017-09-29 10:00:37 Info: start upload file add
+2017-09-29 10:00:37 Info: request is 1
+2017-09-29 10:00:37 Info: upload file 
+2017-09-29 10:00:37 Info: infodasfasdf
+2017-09-29 10:00:37 Info: title đâ
+2017-09-29 10:00:37 Info: descadasd 
+2017-09-29 10:00:37 Info: animal__5_.gif
+2017-09-29 10:00:37 Info: image/gif
+2017-09-29 10:00:37 Info: 110840
+2017-09-29 10:00:37 Info: C:\xampp\htdocs\bongdak.com\src\webroot\uploads\animal__5_.gif
+2017-09-29 10:00:37 Info: upload 
+2017-09-29 10:11:52 Info: start upload file add
+2017-09-29 10:11:52 Info: request is 
+2017-09-29 10:11:58 Info: start upload file add
+2017-09-29 10:11:58 Info: request is 1
+2017-09-29 10:11:58 Info: upload file 
+2017-09-29 10:11:58 Info: infodasfasdf
+2017-09-29 10:11:58 Info: đấ
+2017-09-29 10:11:58 Info: đấ
+2017-09-29 10:11:58 Info: C:\xampp\tmp\php5214.tmp
+2017-09-29 10:11:58 Info: Arsenal-Training-Session.jpg
+2017-09-29 10:11:58 Info: image/jpeg
+2017-09-29 10:11:58 Info: 37541
+2017-09-29 10:11:58 Info: C:\xampp\htdocs\bongdak.com\src\webroot\uploads\Arsenal-Training-Session.jpg
+2017-09-29 10:11:58 Info: upload 
+2017-09-29 10:13:30 Info: start upload file add
+2017-09-29 10:13:30 Info: request is 
+2017-09-29 10:13:37 Info: start upload file add
+2017-09-29 10:13:37 Info: request is 1
+2017-09-29 10:13:37 Info: upload file 
+2017-09-29 10:13:37 Info: infodasfasdf
+2017-09-29 10:13:37 Info: đấ
+2017-09-29 10:13:37 Info: đâsad
+2017-09-29 10:13:37 Info: C:\xampp\tmp\phpD72E.tmp
+2017-09-29 10:13:37 Info: Arsenal-Training-Session.jpg
+2017-09-29 10:13:37 Info: image/jpeg
+2017-09-29 10:13:37 Info: 37541
+2017-09-29 10:13:37 Info: C:\xampp\htdocs\bongdak.com\src\webroot\uploads\Arsenal-Training-Session.jpg
+2017-09-29 10:13:37 Info: upload 
+2017-09-29 10:16:04 Info: start upload file add
+2017-09-29 10:16:04 Info: request is 
+2017-09-29 10:17:42 Info: start upload file add
+2017-09-29 10:17:42 Info: request is 
+2017-09-29 10:17:46 Info: start upload file add
+2017-09-29 10:17:46 Info: request is 1
+2017-09-29 10:17:46 Info: upload file 
+2017-09-29 10:17:46 Info: infodasfasdf
+2017-09-29 10:17:46 Info: dấd
+2017-09-29 10:17:46 Info: sadasd
+2017-09-29 10:17:46 Info: C:\xampp\tmp\phpA185.tmp
+2017-09-29 10:17:46 Info: Arsenal-Training-Session.jpg
+2017-09-29 10:17:46 Info: image/jpeg
+2017-09-29 10:17:46 Info: 37541
+2017-09-29 10:17:46 Info: C:\xampp\htdocs\bongdak.com\src\webroot\uploads\Arsenal-Training-Session.jpg
+2017-09-29 10:17:46 Info: upload 
+2017-10-02 07:31:33 Info: start upload file add
+2017-10-02 07:31:33 Info: request is 
+2017-10-02 07:31:39 Info: start upload file add
+2017-10-02 07:31:39 Info: request is 1
+2017-10-02 07:31:39 Info: upload file 
+2017-10-02 07:31:39 Info: infodasfasdf
+2017-10-02 07:31:39 Info: dấd
+2017-10-02 07:31:39 Info: đấ
+2017-10-02 07:31:39 Info: C:\xampp\tmp\phpA221.tmp
+2017-10-02 07:31:39 Info: camera.jpg
+2017-10-02 07:31:39 Info: image/jpeg
+2017-10-02 07:31:39 Info: 43628
+2017-10-02 07:31:39 Info: webroot\uploads\camera.jpg
+2017-10-02 07:31:39 Info: upload 
+2017-10-02 07:35:37 Info: start upload file add
+2017-10-02 07:35:37 Info: request is 
+2017-10-02 07:35:43 Info: start upload file add
+2017-10-02 07:35:43 Info: request is 1
+2017-10-02 07:35:43 Info: upload file 
+2017-10-02 07:35:43 Info: infodasfasdf
+2017-10-02 07:35:43 Info: fdfd
+2017-10-02 07:35:43 Info: Dfs
+2017-10-02 07:35:43 Info: C:\xampp\tmp\php59AC.tmp
+2017-10-02 07:35:43 Info: camera.jpg
+2017-10-02 07:35:43 Info: image/jpeg
+2017-10-02 07:35:43 Info: 43628
+2017-10-02 07:35:43 Info: webroot\uploads\camera.jpg
+2017-10-02 07:35:43 Info: upload 
+2017-10-02 07:35:58 Info: start upload file add
+2017-10-02 07:35:58 Info: request is 
+2017-10-02 07:36:03 Info: start upload file add
+2017-10-02 07:36:03 Info: request is 1
+2017-10-02 07:36:03 Info: upload file 
+2017-10-02 07:36:03 Info: infodasfasdf
+2017-10-02 07:36:03 Info: đâs
+2017-10-02 07:36:03 Info: ádasd
+2017-10-02 07:36:03 Info: C:\xampp\tmp\phpA954.tmp
+2017-10-02 07:36:03 Info: camera.jpg
+2017-10-02 07:36:03 Info: image/jpeg
+2017-10-02 07:36:03 Info: 43628
+2017-10-02 07:36:03 Info: C:\xampp\htdocs\bongdak.com\src\webroot\uploads\camera.jpg
+2017-10-02 07:36:03 Info: upload 
+2017-10-02 07:41:43 Info: start upload file add
+2017-10-02 07:41:43 Info: request is 
+2017-10-02 07:41:47 Info: start upload file add
+2017-10-02 07:41:47 Info: request is 1
+2017-10-02 07:41:47 Info: upload file 
+2017-10-02 07:41:47 Info: infodasfasdf
+2017-10-02 07:41:47 Info: sdsa
+2017-10-02 07:41:47 Info: ádfs
+2017-10-02 07:41:47 Info: C:\xampp\tmp\phpEA1E.tmp
+2017-10-02 07:41:47 Info: camera.jpg
+2017-10-02 07:41:47 Info: image/jpeg
+2017-10-02 07:41:47 Info: 43628
+2017-10-02 07:41:47 Info: C:\xampp\htdocs\bongdak.com\src\webroot\uploads\camera.jpg
+2017-10-02 07:41:47 Info: C:\xampp\htdocs\bongdak.com\webroot
+2017-10-02 07:41:48 Info: upload 
+2017-10-02 07:43:02 Info: start upload file add
+2017-10-02 07:43:02 Info: request is 
+2017-10-02 07:43:07 Info: start upload file add
+2017-10-02 07:43:07 Info: request is 1
+2017-10-02 07:43:07 Info: upload file 
+2017-10-02 07:43:07 Info: infodasfasdf
+2017-10-02 07:43:07 Info: dfsds
+2017-10-02 07:43:07 Info: đấ
+2017-10-02 07:43:07 Info: C:\xampp\tmp\php21B5.tmp
+2017-10-02 07:43:07 Info: camera.jpg
+2017-10-02 07:43:07 Info: image/jpeg
+2017-10-02 07:43:07 Info: 43628
+2017-10-02 07:43:07 Info: C:\xampp\htdocs\bongdak.com\webroot/uploads\camera.jpg
+2017-10-02 07:43:07 Info: C:\xampp\htdocs\bongdak.com\webroot
+2017-10-02 07:43:07 Info: upload 1
+2017-10-02 07:51:19 Info: start upload file add
+2017-10-02 07:51:19 Info: request is 
+2017-10-02 07:51:26 Info: start upload file add
+2017-10-02 07:51:26 Info: request is 1
+2017-10-02 07:51:26 Info: upload file 
+2017-10-02 07:51:26 Info: infodasfasdf
+2017-10-02 07:51:26 Info: ddad
+2017-10-02 07:51:26 Info: dada
+2017-10-02 07:51:26 Info: C:\xampp\tmp\phpBECF.tmp
+2017-10-02 07:51:26 Info: camera.jpg
+2017-10-02 07:51:26 Info: image/jpeg
+2017-10-02 07:51:26 Info: 43628
+2017-10-02 07:51:26 Info: C:\xampp\htdocs\bongdak.com\webroot/uploads\camera.jpg
+2017-10-02 07:51:26 Info: C:\xampp\htdocs\bongdak.com\webroot
+2017-10-02 07:51:26 Info: upload 1
+2017-10-02 07:51:41 Info: start upload file add
+2017-10-02 07:51:41 Info: request is 
+2017-10-02 07:51:46 Info: start upload file add
+2017-10-02 07:51:46 Info: request is 1
+2017-10-02 07:51:46 Info: upload file 
+2017-10-02 07:51:46 Info: infodasfasdf
+2017-10-02 07:51:46 Info: dasd
+2017-10-02 07:51:46 Info: dad
+2017-10-02 07:51:46 Info: C:\xampp\tmp\phpC34.tmp
+2017-10-02 07:51:46 Info: camera.jpg
+2017-10-02 07:51:46 Info: image/jpeg
+2017-10-02 07:51:46 Info: 43628
+2017-10-02 07:51:46 Info: C:\xampp\htdocs\bongdak.com\src\/uploads\camera.jpg
+2017-10-02 07:51:46 Info: C:\xampp\htdocs\bongdak.com\webroot
+2017-10-02 07:51:46 Info: upload 
+2017-10-02 09:06:09 Info: start upload file add
+2017-10-02 09:06:09 Info: request is 
+2017-10-02 09:08:48 Info: start upload file add
+2017-10-02 09:08:48 Info: request is 
+2017-10-02 09:13:34 Info: start upload file add
+2017-10-02 09:13:34 Info: request is 
+2017-10-02 09:15:08 Info: start upload file add
+2017-10-02 09:15:08 Info: request is 
+2017-10-02 09:19:17 Info: start upload file add
+2017-10-02 09:19:17 Info: request is 
+2017-10-02 09:19:32 Info: start upload file add
+2017-10-02 09:19:32 Info: request is 1
+2017-10-02 09:19:32 Info: upload file 
+2017-10-02 09:19:32 Info: infodasfasdf
+2017-10-02 09:19:32 Info: 
+2017-10-02 09:19:32 Info: 
+2017-10-02 09:19:32 Info: 
+2017-10-02 09:19:32 Info: 
+2017-10-02 09:19:32 Info: 
+2017-10-02 09:19:32 Info: 0
+2017-10-02 09:19:32 Info: C:\xampp\htdocs\bongdak.com\webroot/uploads\
+2017-10-02 09:19:32 Info: C:\xampp\htdocs\bongdak.com\webroot
+2017-10-02 09:19:32 Info: upload 
+2017-10-02 09:24:49 Info: start upload file add
+2017-10-02 09:24:49 Info: request is 
+2017-10-02 09:25:48 Info: start upload file add
+2017-10-02 09:25:48 Info: request is 
+2017-10-02 09:26:27 Info: start upload file add
+2017-10-02 09:26:27 Info: request is 
+2017-10-02 09:27:16 Info: start upload file add
+2017-10-02 09:27:16 Info: request is 
+2017-10-02 09:33:25 Info: start upload file add
+2017-10-02 09:33:25 Info: request is 
+2017-10-02 09:33:47 Info: start upload file add
+2017-10-02 09:33:47 Info: request is 
+2017-10-02 09:35:21 Info: start upload file add
+2017-10-02 09:35:21 Info: request is 
+2017-10-02 09:35:21 Notice: Deprecated (16384): Using key `action` is deprecated, use `url` directly instead. in [C:\xampp\htdocs\bongdak.com\vendor\cakephp\cakephp\src\View\Helper\FormHelper.php, line 365]
+Request URL: /tinymce/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+Cake\View\Helper\FormHelper::create() - CORE\src\View\Helper\FormHelper.php, line 365
+include - APP/Template\TinyMCE\add.ctp, line 9
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 1025
+Cake\View\View::_render() - CORE\src\View\View.php, line 986
+Cake\View\View::render() - CORE\src\View\View.php, line 610
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 623
+Cake\Http\ActionDispatcher::_invoke() - CORE\src\Http\ActionDispatcher.php, line 125
+Cake\Http\ActionDispatcher::dispatch() - CORE\src\Http\ActionDispatcher.php, line 93
+Cake\Http\BaseApplication::__invoke() - CORE\src\Http\BaseApplication.php, line 78
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE\src\Routing\Middleware\RoutingMiddleware.php, line 59
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE\src\Routing\Middleware\AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE\src\Error\Middleware\ErrorHandlerMiddleware.php, line 92
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+DebugKit\Middleware\DebugKitMiddleware::__invoke() - ROOT\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php, line 52
+Cake\Http\Runner::__invoke() - CORE\src\Http\Runner.php, line 65
+Cake\Http\Runner::run() - CORE\src\Http\Runner.php, line 51
+Cake\Http\Server::run() - CORE\src\Http\Server.php, line 80
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2017-10-02 09:36:25 Info: start upload file add
+2017-10-02 09:36:25 Info: request is 
+2017-10-02 09:36:31 Info: start upload file add
+2017-10-02 09:36:31 Info: request is 1
+2017-10-02 09:36:31 Info: upload file 
+2017-10-02 09:36:31 Info: infodasfasdf
+2017-10-02 09:36:31 Info: 
+2017-10-02 09:36:31 Info: 
+2017-10-02 09:36:31 Info: C:\xampp\tmp\phpF32C.tmp
+2017-10-02 09:36:31 Info: camera.jpg
+2017-10-02 09:36:31 Info: image/jpeg
+2017-10-02 09:36:31 Info: 43628
+2017-10-02 09:36:31 Info: C:\xampp\htdocs\bongdak.com\webroot/uploads\camera.jpg
+2017-10-02 09:36:31 Info: C:\xampp\htdocs\bongdak.com\webroot
+2017-10-02 09:36:31 Info: upload 1
+2017-10-02 09:36:49 Info: start upload file add
+2017-10-02 09:36:49 Info: request is 1
+2017-10-02 09:36:49 Info: upload file 
+2017-10-02 09:36:49 Info: infodasfasdf
+2017-10-02 09:36:49 Info: 
+2017-10-02 09:36:49 Info: 
+2017-10-02 09:36:49 Info: C:\xampp\tmp\php37C8.tmp
+2017-10-02 09:36:49 Info: midu_a.jpg
+2017-10-02 09:36:49 Info: image/jpeg
+2017-10-02 09:36:49 Info: 226294
+2017-10-02 09:36:49 Info: C:\xampp\htdocs\bongdak.com\webroot/uploads\midu_a.jpg
+2017-10-02 09:36:49 Info: C:\xampp\htdocs\bongdak.com\webroot
+2017-10-02 09:36:49 Info: upload 1
+2017-10-02 09:57:07 Info: start upload file add
+2017-10-02 09:57:07 Info: request is 
+2017-10-02 09:57:26 Info: start upload file add
+2017-10-02 09:57:26 Info: request is 1
+2017-10-02 09:57:26 Info: upload file 
+2017-10-02 09:57:26 Info: infodasfasdf
+2017-10-02 09:57:26 Info: 
+2017-10-02 09:57:26 Info: 
+2017-10-02 09:57:26 Info: C:\xampp\tmp\php1782.tmp
+2017-10-02 09:57:26 Info: camera.jpg
+2017-10-02 09:57:26 Info: image/jpeg
+2017-10-02 09:57:26 Info: 43628
+2017-10-02 09:57:26 Info: C:\xampp\htdocs\bongdak.com\webroot/uploads\camera.jpg
+2017-10-02 09:57:26 Info: C:\xampp\htdocs\bongdak.com\webroot
+2017-10-02 09:57:26 Info: upload 1
+2017-10-02 09:58:23 Info: start upload file add
+2017-10-02 09:58:23 Info: request is 
+2017-10-02 09:59:38 Info: start upload file add
+2017-10-02 09:59:38 Info: request is 
+2017-10-02 09:59:42 Info: start upload file add
+2017-10-02 09:59:42 Info: request is 1
+2017-10-02 09:59:42 Info: upload file 
+2017-10-02 09:59:42 Info: infodasfasdf
+2017-10-02 09:59:42 Info: 
+2017-10-02 09:59:42 Info: 
+2017-10-02 09:59:42 Info: C:\xampp\tmp\php2C79.tmp
+2017-10-02 09:59:42 Info: camera.jpg
+2017-10-02 09:59:42 Info: image/jpeg
+2017-10-02 09:59:42 Info: 43628
+2017-10-02 09:59:42 Info: C:\xampp\htdocs\bongdak.com\webroot/uploads\camera.jpg
+2017-10-02 09:59:42 Info: C:\xampp\htdocs\bongdak.com\webroot
+2017-10-02 09:59:42 Info: upload 1
