@@ -6,9 +6,14 @@ use App\Controller\AppController;
 use Cake\ORM\TableRegistry;
 use Cake\Datasource\ConnectionManager;
 use Cake\Auth\DefaultPasswordHasher;
-
+use Cake\Log\Log;
 class UsersController extends AppController {
 
+    public function beforeFilter() {
+//        parent::beforeFilter();
+        // Allow users to register and logout.
+        $this->Auth->allow(['index','add']);
+    }
     public function index() {
         $users = TableRegistry::get('users');
         $query = $users->find();
@@ -53,7 +58,7 @@ class UsersController extends AppController {
     }
 
     public function delete($id) {
-        $users_table = TableRegistry::get('users');
+         $users_table = TableRegistry::get('users');
         $users = $users_table->get($id);
         $users_table->delete($users);
         echo "User deleted successfully.";
